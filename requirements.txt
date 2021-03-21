@@ -1,0 +1,4 @@
+djangorestframework==3.12.2
+pillow
+django-filter==2.4.0
+django>2.2
